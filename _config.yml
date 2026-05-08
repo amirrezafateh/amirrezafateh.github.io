@@ -8,9 +8,9 @@ title                    : "Amirreza Fateh"
 title_separator          : "-"
 name                     : &name "Amirreza Fateh"
 description              : &description "Academic portfolio of Amirreza Fateh, PhD candidate in Computer Engineering specializing in computer vision, few-shot learning, and medical imaging."
-url                      : "https://YOUR_USERNAME.github.io"
+url                      : "https://amirrezafateh.github.io"
 baseurl                  : ""
-repository               : "YOUR_USERNAME/YOUR_REPOSITORY"
+repository               : "amirrezafateh/amirrezafateh.github.io"
 
 # Site Author
 author:
@@ -42,7 +42,7 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  github           : "YOUR_GITHUB_USERNAME"
+  github           : "amirrezafateh"
   kaggle           :
   stackoverflow    :
 
