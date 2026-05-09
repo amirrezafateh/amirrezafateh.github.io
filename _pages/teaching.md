@@ -13,28 +13,28 @@ Throughout my academic career, I have been deeply committed to guiding the next 
 
 ## 🔬 Mentorship & Lab Leadership
 
-**Lab Coordinator** | [cite_start]*CVLab, Shahrood University of Technology (SHUT)* [cite: 124, 125]
-* **Dates:** Sep 2022 – Present [cite: 126]
-* [cite_start]Mentored Ph.D. students and supervised the thesis projects of M.Sc. and Bachelor students. [cite: 127]
-* [cite_start]Led various research initiatives focusing on computer vision and deep learning. [cite: 128]
+**Lab Coordinator** | *CVLab, Shahrood University of Technology (SHUT)*
+* **Dates:** Sep 2022 – Present
+* Mentored Ph.D. students and supervised the thesis projects of M.Sc. and Bachelor students.
+* Led various research initiatives focusing on computer vision and deep learning.
 
-**Research Assistant** | [cite_start]*CVLab, Iran University of Science & Technology (IUST)* [cite: 129, 130]
-* [cite_start]**Dates:** Sep 2021 – Present [cite: 131]
-* Provided hands-on mentorship to students working on few-shot learning projects alongside my own thesis research. [cite: 132, 133]
+**Research Assistant** | *CVLab, Iran University of Science & Technology (IUST)*
+* **Dates:** Sep 2021 – Present
+* Provided hands-on mentorship to students working on few-shot learning projects alongside my own thesis research.
 
 ---
 
 ## 📖 Teaching Assistantship
 
-### Iran University of Science & Technology (IUST) [cite: 135]
-* [cite_start]**Image Processing** (Sep 2023) [cite: 137, 147]
-* [cite_start]**Fundamentals of Deep Learning** *(for Bachelor students)* (Spring 2022, Spring 2023) [cite: 138, 148]
-* **Deep Learning** (Sep 2021) [cite: 136, 146]
+### Iran University of Science & Technology (IUST)
+* **Image Processing** (Sep 2023)
+* **Fundamentals of Deep Learning** *(for Bachelor students)* (Spring 2022, Spring 2023)
+* **Deep Learning** (Sep 2021)
 
 ### Shahrood University of Technology (SHUT) [cite: 139]
-* [cite_start]**Artificial Intelligence** (Fall 2022) [cite: 140, 149]
-* [cite_start]**Fundamentals of Data Mining** (Fall 2021) [cite: 141, 150]
-* **Engineering Mathematics** (Sep 2020) [cite: 143, 152]
-* [cite_start]**Discrete Mathematics** (Spring 2020) [cite: 144, 153]
-* [cite_start]**Logic Circuits** (Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019) [cite: 145, 154, 155, 156, 157, 158]
-* **Information Retrieval** (Sep 2017) [cite: 142, 151]
+* **Artificial Intelligence** (Fall 2022)
+* **Fundamentals of Data Mining** (Fall 2021)
+* **Engineering Mathematics** (Sep 2020)
+* **Discrete Mathematics** (Spring 2020)
+* **Logic Circuits** (Fall 2017, Spring 2018, Fall 2018, Spring 2019, Fall 2019)
+* **Information Retrieval** (Sep 2017)
