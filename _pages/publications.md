@@ -26,7 +26,7 @@ Focusing on few-shot learning, semantic segmentation, and adapting large foundat
 ## 🏥 Medical Image Analysis & Diagnostics
 Applying advanced multi-scale refinement and segmentation to critical healthcare challenges, from brain tumors to respiratory diseases.
 
-* **A. Fateh**, Y. Rezvani, S. Moayedi, S. Rezvani, F. Fateh, M. Fateh, V. Abolghasemi. "BRISC: Annotated Dataset for Brain Tumor Segmentation and Classification." **_Scientific Data_** [Nature Portfolio], Published 2026. [Link](https://www.nature.com/articles/s41597-026-06753-y)
+* **A. Fateh**, Y. Rezvani, S. Moayedi, S. Rezvani, F. Fateh, M. Fateh, V. Abolghasemi. "BRISC: Annotated Dataset for Brain Tumor Segmentation and Classification." **_Scientific Data_**, Published 2026. [Link](https://www.nature.com/articles/s41597-026-06753-y)
 * A. Saber, M. Sharifi Fakhim, **A. Fateh**, M. Fateh. "A Lightweight Multi-Scale Refinement Network for Gastrointestinal Disease Classification." **_Expert Systems with Applications_**,Published 2026. [Link](https://www.sciencedirect.com/science/article/abs/pii/S0957417425046056)
 * S. Rezvani, M. Fateh, Y. Jalali, **A. Fateh**. "FusionLungNet: Multi-Scale Fusion Convolution with Refinement Network for Lung CT Image Segmentation." **_Biomedical Signal Processing and Control_**,Published 2025. [Link](https://doi.org/10.1016/j.bspc.2025.107858)
 * A. Saber, **A. Fateh**, P. Parhami, A. Siahkarzadeh, M. Fateh, S. Ferdowsi. "Efficient and Accurate Pneumonia Detection Using a Novel Multi-Scale Transformer Approach." **_Sensors_**, Published 2025. [Link](https://www.mdpi.com/1424-8220/25/23/7233)
