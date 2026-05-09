@@ -31,7 +31,7 @@ Throughout my academic career, I have been deeply committed to guiding the next 
 * **Fundamentals of Deep Learning** *(for Bachelor students)* (Spring 2022, Spring 2023)
 * **Deep Learning** (Sep 2021)
 
-### Shahrood University of Technology (SHUT) [cite: 139]
+### Shahrood University of Technology (SHUT)
 * **Artificial Intelligence** (Fall 2022)
 * **Fundamentals of Data Mining** (Fall 2021)
 * **Engineering Mathematics** (Sep 2020)
