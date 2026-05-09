@@ -28,7 +28,7 @@ Throughout my academic career, I have been deeply committed to guiding the next 
 
 ### Iran University of Science & Technology (IUST)
 * **Image Processing** (Sep 2023)
-* **Fundamentals of Deep Learning** *(for Bachelor students)* (Spring 2022, Spring 2023)
+* **Fundamentals of Deep Learning** (Spring 2022, Spring 2023)
 * **Deep Learning** (Sep 2021)
 
 ### Shahrood University of Technology (SHUT)
