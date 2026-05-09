@@ -10,11 +10,9 @@ redirect_from:
 <div style="text-align: justify;">
 Welcome to my academic homepage!
 
-I am a Ph.D. candidate in Artificial Intelligence and Robotics at the <b>Iran University of Science and Technology (IUST)</b>, working under the supervision of Dr. Mohammadreza Mohammadi and Dr. Mohammadreza Jahed Motlagh. 
+I am a Ph.D. candidate in Artificial Intelligence and Robotics at the Iran University of Science and Technology (IUST). 
 
-My research lies at the intersection of <b>Computer Vision</b> and <b>Medical Imaging</b>, with a specific focus on making deep learning models more efficient and adaptable in real-world scenarios. I am particularly interested in developing lightweight adapters, prompt engineering strategies for foundation models (such as the Segment Anything Model - SAM), and advancing few-shot semantic segmentation techniques for clinical and remote sensing applications.
-
-Currently, I am finalizing my doctoral dissertation and actively seeking <b>post-doctoral opportunities</b> to continue my research in vision-based AI.
+My research lies at the intersection of Computer Vision and Medical Imaging, with a specific focus on making deep learning models more efficient and adaptable in real-world scenarios. I am particularly interested in developing lightweight adapters, prompt engineering strategies for foundation models (such as the Segment Anything Model - SAM), and advancing few-shot semantic segmentation techniques for clinical and remote sensing applications.
 </div>
 
 ## 🏆 Honors & Awards
@@ -36,9 +34,11 @@ Currently, I am finalizing my doctoral dissertation and actively seeking <b>post
 * **[2022 - Present]** Continuing my role as Lab Coordinator, where I mentor M.Sc. and Bachelor's students in their thesis projects.
 
 ## 🤝 Academic Service
-I am deeply committed to the scientific community and have completed **over 250 peer reviews** for top-tier international journals. Selected journals I review for include:
+I am deeply committed to the scientific community and have completed over 300 peer reviews for top-tier international journals. Selected journals I review for include:
 * *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*
 * *IEEE Transactions on Image Processing (TIP)*
+* *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)*
+* *Information Fusion*
 * *Expert Systems with Applications*
 * *Pattern Recognition*
 
