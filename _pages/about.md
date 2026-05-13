@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
+<div style="text-align: justify;" markdown="1">
 Welcome to my academic homepage!
 
 I am a Ph.D. candidate in Artificial Intelligence and Robotics at the Iran University of Science and Technology (IUST). 
