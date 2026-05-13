@@ -19,6 +19,7 @@ I am a Ph.D. candidate in Artificial Intelligence and Robotics at the Iran Unive
 My research lies at the intersection of Computer Vision and Medical Imaging, with a specific focus on making deep learning models more efficient and adaptable in real-world scenarios. I am particularly interested in developing lightweight adapters, prompt engineering strategies for foundation models (such as the Segment Anything Model - SAM), and advancing few-shot semantic segmentation techniques for clinical and remote sensing applications.
 </p>
 
+<div style="text-align: justify;" markdown="1">
 
 ## 🏆 Honors & Awards
 * **Member, Iran's National Elites Foundation** (2022 – Present)
@@ -46,6 +47,6 @@ I am deeply committed to the scientific community and have completed over 300 pe
 * *Information Fusion*
 * *Expert Systems with Applications*
 * *Pattern Recognition*
-
+</div>
 ---
 *Please feel free to reach out via email or connect with me on LinkedIn if you are interested in collaboration or have post-doctoral opportunities available!*
