@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify;">
+<p style="text-align: justify;">
 Welcome to my academic homepage!
+</p>
 
+<p style="text-align: justify;">
 I am a Ph.D. candidate in Artificial Intelligence and Robotics at the Iran University of Science and Technology (IUST). 
+</p>
 
+<p style="text-align: justify;">
 My research lies at the intersection of Computer Vision and Medical Imaging, with a specific focus on making deep learning models more efficient and adaptable in real-world scenarios. I am particularly interested in developing lightweight adapters, prompt engineering strategies for foundation models (such as the Segment Anything Model - SAM), and advancing few-shot semantic segmentation techniques for clinical and remote sensing applications.
-</div>
+</p>
 
 ## 🏆 Honors & Awards
 * **Member, Iran's National Elites Foundation** (2022 – Present)
