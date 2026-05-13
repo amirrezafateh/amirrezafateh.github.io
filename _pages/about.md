@@ -21,13 +21,11 @@ My research lies at the intersection of Computer Vision and Medical Imaging, wit
 
 
 ## 🏆 Honors & Awards
-<p style="text-align: justify;">
 * **Member, Iran's National Elites Foundation** (2022 – Present)
 * **Recognized as an Academically Talented Student** by Iran's National Elites Foundation for exceptional academic achievement (2022 – 2025)
 * **Ranked 1st** in the Ph.D. in Computer Engineering coursework phase (2023)
 * **Ranked 1st** in the M.Sc. in Computer Engineering program (2021)
 * **Ranked 2nd** in the B.Sc. in Computer Engineering program (2019)
-</p>
 
 ## 🔬 Research Interests
 * **Computer Vision:** Few-Shot & One-Shot Semantic Segmentation, Multi-Scale Feature Extraction
