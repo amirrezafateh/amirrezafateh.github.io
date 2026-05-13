@@ -13,7 +13,7 @@ By pushing the boundaries of <strong>Medical Image Analysis</strong>, <strong>Co
 </div>
 
 <br>
-
+<div style="text-align: justify;" markdown="1">
 ## 🌟 Core Computer Vision & Foundation Models
 Focusing on few-shot learning, semantic segmentation, and adapting large foundation models (like SAM) for specialized tasks.
 
@@ -42,3 +42,4 @@ Developing robust architectures for layout analysis and multilingual handwritten
 * **A. Fateh**, M. Rezvani, A. Tajary, M. Fateh. "Persian Printed Text Line Detection Based on Font Size." **_Multimedia Tools and Applications_**, Published 2023. [Link](http://dx.doi.org/10.1007/s11042-022-13243-x)
 * **A. Fateh**, M. Fateh, V. Abolghasemi. "Enhancing Optical Character Recognition: Efficient Techniques for Document Layout Analysis and Text Line Detection." **_Engineering Reports_**, Published 2023. [Link](https://doi.org/10.1002/eng2.12832)
 * **A. Fateh**, M. Rezvani, A. Tajary, M. Fateh. "Providing a Voting-Based Method for Combining Deep Neural Network Outputs to Layout Analysis of Printed Documents." **_Journal of Machine Vision and Image Processing_**, Published 2022. [Link](https://jmvip.sinaweb.net/article_136197.html?lang=en)
+</div>
